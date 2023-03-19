@@ -9,12 +9,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a2a47237-6c7e-498e-9f73-8d3d321c34fe" name="Changes" comment="spring security authentication tested">
+    <list default="true" id="a2a47237-6c7e-498e-9f73-8d3d321c34fe" name="Changes" comment="moved passwords to DB and created logic to authorisation">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/yevhen/spring/security/configuration/MyConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yevhen/spring/security/configuration/MyConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/yevhen/spring/security/configuration/MySecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yevhen/spring/security/configuration/MySecurityConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/view_for_all_employees.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/view_for_all_employees.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -166,7 +162,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1679221642825</updated>
-      <workItem from="1679221644627" duration="5571000" />
+      <workItem from="1679221644627" duration="7043000" />
     </task>
     <task id="LOCAL-00001" summary="spring security configuration finished">
       <created>1679223429484</created>
@@ -182,7 +178,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679224410739</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="moved passwords to DB and created logic to authorisation">
+      <created>1679229984806</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1679229984806</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -191,6 +194,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="spring security configuration finished" />
     <MESSAGE value="spring security authentication tested" />
-    <option name="LAST_COMMIT_MESSAGE" value="spring security authentication tested" />
+    <MESSAGE value="moved passwords to DB and created logic to authorisation" />
+    <option name="LAST_COMMIT_MESSAGE" value="moved passwords to DB and created logic to authorisation" />
   </component>
 </project>
